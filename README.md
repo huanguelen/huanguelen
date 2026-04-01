@@ -16,7 +16,6 @@ Over time, I’ve been expanding my path toward more modern development practice
 - Strong technical background in ECC and growing focus on S/4HANA-aligned development
 - Interested in modern SAP practices such as **CDS**, **OData**, **Clean Core**, and **SAP BTP**
 - Using GitHub as a place to document learning, build projects, and create a visible technical portfolio
-- Open to remote opportunities, especially in Spanish-speaking environments
 
 ---
 
