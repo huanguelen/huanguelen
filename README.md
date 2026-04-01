@@ -58,10 +58,11 @@ Currently, I’m learning and practicing with:
   <img src="https://img.shields.io/badge/PWA-Building-5A0FC8?style=flat-square" />
 </p>
 
-One of those projects is **limApp**, a personal **Progressive Web App (PWA)** created to manage and track statistics for the amateur 11-a-side football tournament I play in with my team.
+One of those projects is **limApp**, a personal **Progressive Web App (PWA)** that I’m currently building together with my friend Pablo.
 
-It’s a hands-on project where I combine technology, continuous learning, and one of my personal passions: football.
+We are learning and experimenting along the way with tools such as **Claude Code**, **GitHub**, **Firebase**, **Cloudflare**, and **JavaScript**, while creating a real-world app to manage and track statistics for the amateur 11-a-side football tournament we are involved in.
 
+🤝 Built together with [@pablom79](https://github.com/pablom79)  
 🔗 **Project:** [View limApp](https://lima-fc.pages.dev/)
 
 ---
