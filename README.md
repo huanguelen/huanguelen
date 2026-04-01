@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, bienvenid@s a mi repo 👋
 
 <!--
 **huanguelen/huanguelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
