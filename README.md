@@ -1,68 +1,81 @@
-# Daniel Vargas 👨‍💻
+# Hi, I'm Daniel Vargas 👋
 
-### Senior SAP ABAP Consultant | Building toward Modern SAP & Web Development
+### Senior SAP ABAP Consultant | SAP ECC & S/4HANA | Learning by building
 
-Welcome to my GitHub profile.
-
-I’m a Senior SAP ABAP Consultant with strong experience in enterprise SAP environments, focused on backend development, technical analysis, troubleshooting, SAP Notes implementation, and performance optimization.
-
-Over time, I’ve been expanding my path toward more modern development practices, combining my SAP background with continuous learning in technologies, tools, and hands-on side projects.
+<p align="left">
+  <a href="https://www.linkedin.com/in/danielomarvargas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Vargas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Daniel Vargas" />
+  </a>
+  <a href="https://lima-fc.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/limApp-PWA%20Project-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="limApp" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About me
 
-- Senior SAP ABAP Consultant with solid experience in complex enterprise landscapes
-- Strong technical background in ECC and growing focus on S/4HANA-aligned development
-- Interested in modern SAP practices such as **CDS**, **OData**, **Clean Core**, and **SAP BTP**
-- Using GitHub as a place to document learning, build projects, and create a visible technical portfolio
+I’m a Senior SAP ABAP Consultant with strong experience in enterprise SAP environments, focused on:
+
+- backend development
+- technical analysis
+- SAP Notes implementation
+- troubleshooting and support
+- performance optimization
+
+My background is mainly rooted in **SAP ECC** and enterprise backend development, while I continue evolving toward more modern SAP practices such as **CDS Views**, **OData**, **Clean Core**, **S/4HANA-aligned development**, and **SAP BTP fundamentals**.
 
 ---
 
 ## 🧩 Core expertise
 
-- SAP ABAP / ABAP OO  
-- SAP ECC & S/4HANA  
-- SAP Notes analysis and implementation  
-- Performance optimization  
-- Smartforms / Output Management  
-- OData / Gateway  
-- SAP CDS Views  
-- Technical troubleshooting  
-- Backend development and support  
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAP-ECC-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAP-S%2F4HANA-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAP-CDS%20Views-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAP-OData%20%2F%20Gateway-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAP-SAP%20Notes-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAP-Smartforms-0FAAFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Performance%20Optimization-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Technical%20Troubleshooting-555555?style=flat-square" />
+</p>
 
 ---
 
 ## ⚡ Learning by building
 
-Beyond SAP, I’m also exploring modern development tools and workflows by building real projects.
+Beyond SAP, I’m also exploring modern development tools and workflows through real projects.
 
-I’m currently learning and practicing with:
+Currently, I’m learning and practicing with:
 
-- **Claude Code**
-- **GitHub**
-- **Firebase**
-- **Cloudflare**
-- **JavaScript**
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-Learning-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Apps-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PWA-Building-5A0FC8?style=flat-square" />
+</p>
 
 One of those projects is **limApp**, a personal **Progressive Web App (PWA)** created to manage and track statistics for the amateur 11-a-side football tournament I play in with my team.
 
-It’s a practical project that lets me combine technology, learning, and one of my personal passions: football.
+It’s a hands-on project where I combine technology, continuous learning, and one of my personal passions: football.
 
-🔗 [View limApp](https://lima-fc.pages.dev/)
+🔗 **Project:** [View limApp](https://lima-fc.pages.dev/)
 
 ---
 
-## 📘 What I’m currently focused on
+## 📘 Current focus
 
-Right now, I’m mainly working on:
+Right now, I’m especially focused on:
 
 - SAP CDS data modeling
 - S/4HANA development standards
 - Clean Core principles
 - SAP BTP fundamentals
-- Modern SAP development practices
-- Expanding my public technical portfolio
+- modern SAP development practices
+- building a stronger public technical portfolio
 
 ---
 
@@ -77,7 +90,7 @@ This profile will gradually include:
 - SAP Notes learnings
 - troubleshooting cases
 - hands-on experiments
-- professional learning repositories
+- learning repositories
 
 ---
 
