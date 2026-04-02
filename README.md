@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Vargas 👋
+# Hi 👋
 
 ### Senior SAP ABAP Consultant | SAP ECC & S/4HANA | Learning by building
 
